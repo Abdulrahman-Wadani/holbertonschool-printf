@@ -64,7 +64,8 @@ The goal is to understand how formatted output works internally.
 
 ---
 
-<img width="534" height="534" alt="IMG_1721" src="https://github.com/user-attachments/assets/0d9192ec-dea4-4edb-bacd-89b234f18672" />
+<img src="https://github.com/user-attachments/assets/0d9192ec-dea4-4edb-bacd-89b234f18672" width="350">
+
 ## How does the project idea work?
 The original printf function uses special symbols inside a string (such as %s and %c) to format output.  
 In this project, we recreated this concept in a simplified way.
@@ -107,7 +108,7 @@ This diagram shows the steps of how _printf works. It reads the string, checks f
 - Handling different data types  
 - Breaking down problems step by step  
 - Working as a team
--  <img width="537" height="581" alt="IMG_1720" src="https://github.com/user-attachments/assets/7098032a-d937-4108-806c-d0b5a8ae4f55" />
+-<img src="https://github.com/user-attachments/assets/7098032a-d937-4108-806c-d0b5a8ae4f55" width="350">
 
 ---
 
@@ -129,7 +130,7 @@ and improved our problem-solving and programming skills.
 ### Flow of Execution Diagram
 
 This diagram illustrates the step-by-step process of how the _printf function works.
-<img width="949" height="1903" alt="IMG_1727" src="https://github.com/user-attachments/assets/c1ff593d-c149-440a-8ade-5fc335363088" />
+<img src="https://github.com/user-attachments/assets/c1ff593d-c149-440a-8ade-5fc335363088" width="400">
 
 ---
 
@@ -137,4 +138,4 @@ This diagram illustrates the step-by-step process of how the _printf function wo
 ## Authors
 - Sara Al-Buraidi  
 - Abdulrahman Al-Wadani
-- <img width="1124" height="541" alt="IMG_1725" src="https://github.com/user-attachments/assets/ac3a4421-d0f7-44a9-9fc7-1effdec31357" />
+-<img src="https://github.com/user-attachments/assets/ac3a4421-d0f7-44a9-9fc7-1effdec31357" width="500">
