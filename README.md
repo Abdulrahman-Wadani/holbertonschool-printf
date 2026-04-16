@@ -44,7 +44,7 @@ For variadic functions:
 - %p → memory address  
 
 ---
-<img width="420" height="414" alt="IMG_1722 (1)" src="https://github.com/user-attachments/assets/6750b48b-a419-4cf9-8b34-d9876c50edbf" />
+<img src="https://github.com/user-attachments/assets/6750b48b-a419-4cf9-8b34-d9876c50edbf" width="350">
 
 ## How can we approach and solve this project? 
 - First, understand the problem and what _printf is supposed to do  
