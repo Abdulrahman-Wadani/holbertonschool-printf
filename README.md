@@ -108,7 +108,7 @@ This diagram shows the steps of how _printf works. It reads the string, checks f
 - Handling different data types  
 - Breaking down problems step by step  
 - Working as a team
-- 
+  
 -<img src="https://github.com/user-attachments/assets/7098032a-d937-4108-806c-d0b5a8ae4f55" width="350">
 
 ---
@@ -140,5 +140,5 @@ This diagram illustrates the step-by-step process of how the _printf function wo
 ## Authors
 - Sara Al-Buraidi  
 - Abdulrahman Al-Wadani
-- 
+  
 -<img src="https://github.com/user-attachments/assets/ac3a4421-d0f7-44a9-9fc7-1effdec31357" width="500">
