@@ -30,11 +30,13 @@ int _printf(const char *format, ...)
 				counter += _putchar('%');
 			else if (format[i] == 'i' || format[i] == 'd')
 				counter += print_int(args);
-			else
+			else if (format[i])
 			{
 				counter += _putchar('%');
 				counter += _putchar(format[i]);
 			}
+			else
+				return (-1);
 		}
 		else
 			counter += _putchar(format[i]);
