@@ -26,6 +26,8 @@ int print_chars(va_list args)
 	char *str = va_arg(args, char *);
 	int counter = 0;
 
+	if (!str)
+		str = "(null)";
 	while (str[counter])
 	{
 		_putchar(str[counter]);
